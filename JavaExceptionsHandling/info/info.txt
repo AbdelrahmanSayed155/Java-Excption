@@ -1,0 +1,22 @@
+
+error is from JVM and terminate your program  can't catch 
+
+Excption 
+checked exception is exception knwon in compile time 
+unchecked exception is exception known in run time 
+
+
+throw new Exception(); this is terminate your function
+
+
+// final keyord  
+finall class can't inheritate 
+final method can't be overrriding
+final value  intialize once , can't change it value
+
+/// finally block using for execute code must be excuted
+// finalize method  make GC delete out of scope refrence
+
+
+
+
